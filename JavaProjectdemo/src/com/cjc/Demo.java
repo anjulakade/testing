@@ -9,5 +9,8 @@ public class Demo {
 	{
 		System.out.println("Changes");
 	}
+	public void m2()
+	{
+	}
 
 }
