@@ -5,6 +5,10 @@ public class Demo {
 //		
 		System.out.println("main");
 	}
+
+	public void mmmm()
+	{
+
 	public void m1()
 	{
 		System.out.println("Changes");
@@ -12,6 +16,7 @@ public class Demo {
 	public void m2()
 	{
 				System.out.println("Changes2");
+
 
 	}
 
