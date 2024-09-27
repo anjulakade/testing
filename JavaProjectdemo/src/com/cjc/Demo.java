@@ -19,5 +19,12 @@ public class Demo {
 
 
 	}
+		public void m3()
+	{
+				System.out.println("Changes3");
+
+
+	}
+
 
 }
